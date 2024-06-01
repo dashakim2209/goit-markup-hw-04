@@ -139,6 +139,7 @@ img {
   background-size: cover;
   background-position: center;
   max-width: 1440px;
+  margin: 0 auto;
 }
 
 .main-title {
